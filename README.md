@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrirama2002
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning BSc in Computer Science
+- 🌱 I’m currently persuing BSc in Computer Science
 - 💞️ I’m looking to collaborate on any AI Project
 - 📫 Reach me at shriramakamath2002@gmail.com
 
