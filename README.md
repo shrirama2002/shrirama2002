@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrirama2002
-- 👀 I’m interested in AI and Machine Learning
+- 👀 I’m interested in Back-end developement,AI, Machine Learning and much more...
 - 🌱 I’m currently persuing MCA at Ramaiah Institute of Technology,Banglore.
 - 💞️ I’m looking to collaborate on any Projects for gaining new skills
 - 📫 Reach me at shriramakamath2002@gmail.com
