@@ -40,8 +40,7 @@ I’m open to internships, freelance collaborations, or community projects where
 
 Thanks for visiting! ⭐
 
-I have worked with:
-## 🛠️ Languages and Tools
+##I have worked with:
 
 <p align="left">
   <!-- Languages -->
@@ -55,7 +54,6 @@ I have worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
 
@@ -64,6 +62,8 @@ I have worked with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
   
@@ -76,20 +76,20 @@ I have worked with:
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="40" height="40" alt="Windows"/>
 
   <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg" width="40" alt="AWS"/>
   
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
 
   <!-- Chatbot -->
-  <img src="https://raw.githubusercontent.com/RasaHQ/rasa/master/icons/icon.png" width="40" height="40" alt="RASA" />
+   <img src="https://svgicons.com/icon/download/189753/rasa.svg" width="40" alt="Rasa"/>
 
   <!-- Automation & UIPath -->
   <img src="https://img.icons8.com/color/48/000000/uipath.png" width="40" height="40" alt="UiPath"/>
 
   <!-- API Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/logo.png" width="40" height="40" alt="Bruno" />
+  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/logo.png" width="40" alt="Bruno"/>
 
   <!-- Shell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
